@@ -12,7 +12,7 @@ START_TEXT = "<b>Hii {},\n\n𝖨 𝖼𝖺𝗇 𝖺𝗎𝗍𝗈𝗆𝖺𝗍𝗂�
 API_ID = int(env.get('API_ID', '27705761'))
 API_HASH = env.get('API_HASH', '822cb334ca4527a134aae97f9fe44fd6')
 BOT_TOKEN = env.get('BOT_TOKEN', '7688784612:AAG2i-qcDpxY3GNe7hdipfWCXToXW42kO2g')
-DB_URL = env.get('DB_URL', 'mongodb+srv://akashrabha2005:781120@cluster0.pv6yd2f.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0')
+DB_URL = env.get('DB_URL', 'mongodb+srv://madtoazenzio:f9oDLc4c6H5zdP44@devutty.pk5so.mongodb.net/?retryWrites=true&w=majority&appName=devutty')
 ADMINS = int(env.get('ADMINS', '8110231942'))
 AUTH_CHANNEL = int(env.get('AUTH_CHANNEL', '-1002008497819'))
 
